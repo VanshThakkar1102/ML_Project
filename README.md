@@ -1,5 +1,5 @@
 # ML_Project
-Medical Classification Using Deep Learning Techniques.
+Medical Image Classification Using Deep Learning Techniques.
 
 This project implements transfer learning and deep learning models like LeNet-5, DenseNet121, and EfficientNetB0 to classify medical images across the three datasets: Brain Tumor Classification, Skin Cancer HAM10000, and Chest X-ray COVID/Pneumonia.
 Link for the three datasets :- 
